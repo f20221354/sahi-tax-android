@@ -1,7 +1,7 @@
 
 # Sahi Tax: India's First AI Tax Optimizer
 
-Sahi Tax is an automated **Tax-Loss Harvesting (TLH)** platform designed specifically for retail investors in India[cite: 536, 541]. [cite_start]By leveraging AI and a deterministic rule engine, it identifies and executes opportunities to save on capital gains tax, a service previously reserved for High Net Worth Individuals (HNIs)[cite: 541, 574, 588].
+Sahi Tax is an automated **Tax-Loss Harvesting (TLH)** platform designed specifically for retail investors in India. By leveraging AI and a deterministic rule engine, it identifies and executes opportunities to save on capital gains tax, a service previously reserved for High Net Worth Individuals (HNIs).
 
 ## 🚀 The Problem
 * **Awareness Gap:** 99% of retail investors are unaware that Tax-Loss Harvesting exists[cite: 550].
